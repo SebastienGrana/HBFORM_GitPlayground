@@ -11,6 +11,9 @@ public class Main {
 		}
 	}
 	
+	public static void pomme(){
+		System.out.println("le meilleur pomme est la golden");
+	}
 	
 	
 	
